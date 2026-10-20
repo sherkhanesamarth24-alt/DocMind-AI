@@ -1,0 +1,4 @@
+[
+  {"question": "Replace with a question about your document", "filename": "your_file.pdf", "page": 1},
+  {"question": "Add 40-50 of these, each with the file name and the page holding the answer", "filename": "your_file.pdf", "page": 2}
+]
